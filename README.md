@@ -1,4 +1,4 @@
-# Z2-Fukui-Hatsugai
+# Z2-support-OpenMX
 This page supports to use our code, "Z2FH" in [OpenMX 3.9](http://openmx-square.org/).
 Z2FH computes $Z_{2}$ invariant by Berry curvature $F$ and Berry connection ${\bf A}$ [1,2]. This code is included in [OpenMX3.9's source](http://openmx-square.org/download.html).
 It can compute the system broken space inversion symmetry, so this is suitable for computing $Z_{2}$ invariant of the system in the electric field or polar materials etc.
